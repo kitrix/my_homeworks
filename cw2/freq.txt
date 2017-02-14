@@ -1,0 +1,8 @@
+type="lhfeof" 1
+type="lkfesf" 1
+type="lkfnsf" 1
+type="lkfosf" 2
+type="lvfnsf" 2
+type="lvfnvm" 1
+type="lvfosf" 4
+type="lvfovm" 2
